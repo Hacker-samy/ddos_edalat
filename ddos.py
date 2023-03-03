@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: hacker-8 -*-
+# -*- coding: uft-8 -*-
 
 # python 3.3.2+ ddos_edalat Dos Script v.1.3
 # by Can Yalçın
